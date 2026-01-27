@@ -1,0 +1,18 @@
+# Site settings
+title: CanInvest
+email: info@caninvest.uk
+url: https://www.caninvest.uk
+description: "Private Investment Office"
+
+# Color settings
+color:
+  primary-dark: '#1a1a1a'
+  links: '#a88595'
+
+# Background
+background_image: /img/private-investment-office.png
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+theme: null
