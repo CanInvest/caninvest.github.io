@@ -1,8 +1,9 @@
 # Site settings
-title: CanInvest
+title: "CanInvest | Private Investment Office, Edinburgh"
 email: info@caninvest.uk
 url: https://www.caninvest.uk
 description: "Private Investment Office"
+meta_description: "CanInvest is a private investment office based in Edinburgh, specialising in equities, bonds and real estate investments."
 
 # Color settings
 color:
