@@ -4,6 +4,9 @@ email: info@caninvest.uk
 url: https://www.caninvest.uk
 description: "Private Investment Office"
 meta_description: "CanInvest is a private investment office based in Edinburgh, specialising in equities, bonds and real estate investments."
+company_name: "CanInvest Ltd"
+logo: caninvest.png
+og_image: og-image.jpg
 
 # Color settings
 color:
