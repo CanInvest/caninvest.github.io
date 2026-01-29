@@ -10,7 +10,7 @@ color:
   links: '#a88595'
 
 # Background
-background_image: /img/private-investment-office.png
+background_image: /img/private-investment-office.jpg
 
 # Build settings
 markdown: kramdown
